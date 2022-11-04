@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-https://thermiee.github.io/Portfolio/
+[Demo](https://thermiee.me)
 
 
 ## Getting Started
@@ -34,13 +34,6 @@ Open index.html in Chrome
 
 - GitHub: [@Thermiee](https://github.com/thermiee)
 - LinkedIn: [Emmanuel Jolugbo](https://www.linkedin.com/in/emmanuel-jolugbo/)
-
-## 🤝 Contributing
-
-- GitHub: [@Mutalenic](https://github.com/Mutalenic)
-- GitHub: [@Joseph](https://github.com/joseph07-drack)
-
-Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
