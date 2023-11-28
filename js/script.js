@@ -51,8 +51,7 @@ const works = [
     <br>
     Administrators: Assetize includes a dedicated admin section, empowering administrators to manage and maintain the platform efficiently. They can oversee user accounts, monitor transactions, and ensure compliance with regulations. The admin section also provides valuable insights through analytics and reporting tools.
     <br/>
-    <br>
-    Overall, Assetize is a versatile real estate website that bridges the gap between investors, developers, and administrators, offering a unified digital ecosystem for all real estate stakeholders. `,
+    `,
     imageURL: "./images/projects/Assetize.png",
     technologies: ["React", "Redux", "Tailwindcss", "Typescript"],
     liveURL: "https://testting-aes.pages.dev/",
@@ -64,74 +63,17 @@ const works = [
     },
     backgroundColor: "#CA1611",
   },
-  // {
-  //   name: "Flighfull"
-  //   description:
-  //     "Flighfull allows users to signup/login to reserve and book a flight.",
-  //   imageURL: "./images/projects/FLIGHTFULL.png",
-  //   technologies: ["React", "Redux", "Ruby", "Postgres"],
-  //   liveURL: "https://flightfull.netlify.app/",
-  //   sourceURL: "https://github.com/ZahraArshia/book-flight-frontend",
-  //   details: {
-  //     organization: "Microverse",
-  //     role: "Full-Stack Developer",
-  //     year: "2022",
-  //   },
-  //   backgroundColor: "#97bd34",
-  // },
-  // {
-  //   name: "Anime World",
-  //   description:
-  //     "This is a web application that will return a list of animes and some facts from a provided API",
-  //   imageURL: "./images/projects/animeworld.png",
-  //   technologies: ["React", "Redux", "CSS"],
-  //   liveURL: "https://graceful-baklava-ba0862.netlify.app/",
-  //   sourceURL: "https://github.com/Thermiee/Anime-World.git",
-  //   details: {
-  //     organization: "Microverse",
-  //     role: "Front-End Developer",
-  //     year: "2022",
-  //   },
-  //   backgroundColor: "#548dfe",
-  // },
+
   {
-    name: "Math Magicians",
+    name: "Lola Finance",
     description:
-      "Math Magicians is your ultimate online destination for all things mathematics. Whether you're a student seeking to sharpen your skills, a teacher looking for innovative teaching resources, or a math enthusiast eager to explore the fascinating world of numbers, Math Magicians has something for everyone. Math Magicians is a Single Page Application (SPA) created in React that allows users to make simple calculations & Read some famous Math Quotes - with some witty gifs and a fun UI.",
-    imageURL: "./images/projects/math-magicians.png",
-    technologies: ["React", "CSS"],
-    liveURL: "https://brilliant-semifreddo-5fcc98.netlify.app/",
-    sourceURL: "https://github.com/Thermiee/Math-magicians.git",
+      "Lola is a versatile platform that goes beyond the conventional boundaries of communication. Whether you're looking to engage with your community, exchange innovative ideas, or seamlessly process payments, Lola is your all-in-one solution. It serves as a dynamic hub where collaboration and connectivity thrive, empowering users to explore, communicate, and transact—all within the vibrant framework of a unified community experience.",
+    imageURL: "./images/projects/lola.png",
+    technologies: ["Nextjs", "Redux", "Tailwindcss", "Typescript"],
+    liveURL: "https://lolafinance.com",
+    sourceURL: "https://github.com/Thermiee/",
     details: {
-      organization: "Microverse",
-      role: "Front-End Developer",
-      year: "2022",
-    },
-    backgroundColor: "#f5deb3",
-  },
-  // {
-  //   name: 'Smart Brain',
-  //   description: 'A Face recognition Web application',
-  //   imageURL: './images/projects/smart-icon.png',
-  //   technologies: ['React', 'Node'],
-  //   liveURL: 'https://smart-icon.herokuapp.com',
-  //   sourceURL: 'https://github.com/Thermiee/smart-brain-ui',
-  //   details: {
-  //     organization: 'Freelance',
-  //     role: 'Full Stack Developer',
-  //     year: '2019',
-  //   },
-  //   backgroundColor: '#24BEDC',
-  // },
-  {
-    name: "Football Highlights",
-    description: "Football Highlist website of recent football matches",
-    imageURL: "./images/projects/football.png",
-    technologies: ["React", "Redux", "CSS"],
-    liveURL: "https://lustrous-lebkuchen-41a060.netlify.app/",
-    sourceURL: "https://github.com/Thermiee/upgraded-invention.git",
-    details: {
-      organization: "Microverse",
+      organization: "BaseAfrique",
       role: "Front-End Developer",
       year: "2022",
     },
@@ -151,6 +93,22 @@ const works = [
       year: "2022",
     },
     backgroundColor: "#78b5e2",
+  },
+
+  {
+    name: "Math Magicians",
+    description:
+      "Math Magicians is your ultimate online destination for all things mathematics. Whether you're a student seeking to sharpen your skills, a teacher looking for innovative teaching resources, or a math enthusiast eager to explore the fascinating world of numbers, Math Magicians has something for everyone. Math Magicians is a Single Page Application (SPA) created in React that allows users to make simple calculations & Read some famous Math Quotes - with some witty gifs and a fun UI.",
+    imageURL: "./images/projects/math-magicians.png",
+    technologies: ["React", "CSS"],
+    liveURL: "https://brilliant-semifreddo-5fcc98.netlify.app/",
+    sourceURL: "https://github.com/Thermiee/Math-magicians.git",
+    details: {
+      organization: "Microverse",
+      role: "Front-End Developer",
+      year: "2022",
+    },
+    backgroundColor: "#f5deb3",
   },
   {
     name: "Space-Travelers-Hub",
@@ -225,7 +183,6 @@ const frameworks = [
     name: "Node",
     icon: "./images/frameworks/nodejs.svg",
   },
-  
 ];
 
 const skills = [
