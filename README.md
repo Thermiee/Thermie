@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Demo](https://thermiee.me)
+[Demo]()
 
 
 ## Getting Started
