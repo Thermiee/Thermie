@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Demo]()
+[Demo](https://thermiee.github.io/Thermie/)
 
 
 ## Getting Started
