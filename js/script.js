@@ -23,6 +23,20 @@ linksInMobileMenu.forEach((link) => {
 
 const works = [
   {
+    name: "Dinero Apartments",
+    description: "Dinero Apartments is a service apartment rental platform that offers a wide range of accommodation options for travelers, students, and professionals. With a user-friendly interface and a diverse selection of properties, Dinero Apartments makes it easy to find the perfect place to stay, whether you're traveling for business or leisure. From cozy studio apartments to spacious penthouses, Dinero Apartments has something for everyone. With a focus on quality, convenience, and affordability, Dinero Apartments is your go-to destination for short-term and long-term accommodation solutions.",
+    imageURL: "./images/projects/dinero.png",
+    technologies: ["React", "Tailwindcss", "Typescript"],
+    liveURL: "https://dineroapartments.com/",
+    sourceURL: "https://github.com/Thermiee",
+    details: {
+      organization: "BloomBinary",
+      role: "Front-End Developer",
+      year: "2024",
+    },
+    backgroundColor: "#0078ff",
+  },
+  {
     name: "Pyramid Microfinance Bank",
     description: "Pyramid Microfinance Bank’s website offers a range of financial services, including loans, savings accounts, and Airtime/data  for individuals and small business",
     imageURL: "./images/projects/pyramid.png",
@@ -109,21 +123,21 @@ const works = [
   //   backgroundColor: "#78b5e2",
   // },
 
-  {
-    name: "Math Magicians",
-    description:
-      "Math Magicians is your ultimate online destination for all things mathematics. Whether you're a student seeking to sharpen your skills, a teacher looking for innovative teaching resources, or a math enthusiast eager to explore the fascinating world of numbers, Math Magicians has something for everyone. Math Magicians is a Single Page Application (SPA) created in React that allows users to make simple calculations & Read some famous Math Quotes - with some witty gifs and a fun UI.",
-    imageURL: "./images/projects/math-magicians.png",
-    technologies: ["React", "CSS"],
-    liveURL: "https://brilliant-semifreddo-5fcc98.netlify.app/",
-    sourceURL: "https://github.com/Thermiee/Math-magicians.git",
-    details: {
-      organization: "Microverse",
-      role: "Front-End Developer",
-      year: "2022",
-    },
-    backgroundColor: "#f5deb3",
-  },
+  // {
+  //   name: "Math Magicians",
+  //   description:
+  //     "Math Magicians is your ultimate online destination for all things mathematics. Whether you're a student seeking to sharpen your skills, a teacher looking for innovative teaching resources, or a math enthusiast eager to explore the fascinating world of numbers, Math Magicians has something for everyone. Math Magicians is a Single Page Application (SPA) created in React that allows users to make simple calculations & Read some famous Math Quotes - with some witty gifs and a fun UI.",
+  //   imageURL: "./images/projects/math-magicians.png",
+  //   technologies: ["React", "CSS"],
+  //   liveURL: "https://brilliant-semifreddo-5fcc98.netlify.app/",
+  //   sourceURL: "https://github.com/Thermiee/Math-magicians.git",
+  //   details: {
+  //     organization: "Microverse",
+  //     role: "Front-End Developer",
+  //     year: "2022",
+  //   },
+  //   backgroundColor: "#f5deb3",
+  // },
   {
     name: "Space-Travelers-Hub",
     description:
