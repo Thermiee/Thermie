@@ -23,6 +23,20 @@ linksInMobileMenu.forEach((link) => {
 
 const works = [
   {
+    name: "Pyramid Microfinance Bank",
+    description: "Pyramid Microfinance Bank’s website offers a range of financial services, including loans, savings accounts, and Airtime/data  for individuals and small business",
+    imageURL: "./images/projects/pyramid.png",
+    technologies: ["React", "Tailwindcss", "Typescript"],
+    liveURL: "https://pyramidmfb.com/",
+    sourceURL: "https://github.com/Thermiee",
+    details: {
+      organization: "Elevate Apps",
+      role: "Front-End Developer",
+      year: "2024",
+    },
+    backgroundColor: "#106e4f",
+  },
+  {
     name: "Crunchies",
     description:
       "Crunchies is your go-to fast food delivery website, dedicated to satisfying your cravings with deliciousness delivered right to your doorstep. From mouthwatering burgers and crispy fries to cheesy pizzas and savory fried chicken, Crunchies offers an extensive menu of your favorite fast food delights. With a user-friendly interface, speedy delivery, and a commitment to quality, Crunchies ensures a convenient and satisfying dining experience every time. Indulge in the crunchiest, tastiest fast food treats with Crunchies – where flavor meets convenience.",
@@ -79,21 +93,21 @@ const works = [
     },
     backgroundColor: "#eeeeee",
   },
-  {
-    name: "Showtime",
-    description:
-      "ShowTime is a web application that leverages the TV Maze API to provide users with a comprehensive platform for exploring TV shows. This dynamic web app features two key user interfaces: the Homepage and the Comment modal.The Homepage is where users can browse and discover TV shows. It allows users to like and comment on their favorite shows, fostering community engagement and discussion. The Comment modal provides a space for users to share their thoughts and opinions about specific shows, further enhancing the interactive and social aspect of the platform. With ShowTime, users can immerse themselves in the world of television, interact with others who share their interests, and stay up-to-date with their favorite shows. It's a one-stop destination for TV enthusiasts and a hub for TV show-related discussions and interactions. ",
-    imageURL: "./images/projects/showtime.png",
-    technologies: ["Webpack", "HTML5", "CSS3", "JavaScript"],
-    liveURL: "https://show-time-202.netlify.app/",
-    sourceURL: "https://github.com/Thermiee/Javascript-Capstone",
-    details: {
-      organization: "Microverse",
-      role: "Front-End Developer",
-      year: "2022",
-    },
-    backgroundColor: "#78b5e2",
-  },
+  // {
+  //   name: "Showtime",
+  //   description:
+  //     "ShowTime is a web application that leverages the TV Maze API to provide users with a comprehensive platform for exploring TV shows. This dynamic web app features two key user interfaces: the Homepage and the Comment modal.The Homepage is where users can browse and discover TV shows. It allows users to like and comment on their favorite shows, fostering community engagement and discussion. The Comment modal provides a space for users to share their thoughts and opinions about specific shows, further enhancing the interactive and social aspect of the platform. With ShowTime, users can immerse themselves in the world of television, interact with others who share their interests, and stay up-to-date with their favorite shows. It's a one-stop destination for TV enthusiasts and a hub for TV show-related discussions and interactions. ",
+  //   imageURL: "./images/projects/showtime.png",
+  //   technologies: ["Webpack", "HTML5", "CSS3", "JavaScript"],
+  //   liveURL: "https://show-time-202.netlify.app/",
+  //   sourceURL: "https://github.com/Thermiee/Javascript-Capstone",
+  //   details: {
+  //     organization: "Microverse",
+  //     role: "Front-End Developer",
+  //     year: "2022",
+  //   },
+  //   backgroundColor: "#78b5e2",
+  // },
 
   {
     name: "Math Magicians",
