@@ -41,7 +41,7 @@ const works = [
     description: "Pyramid Microfinance Bank’s website offers a range of financial services, including loans, savings accounts, and Airtime/data  for individuals and small business",
     imageURL: "./images/projects/pyramid.png",
     technologies: ["React", "Tailwindcss", "Typescript"],
-    liveURL: "https://pyramidmfb.com/",
+    liveURL: "https://app.pyramidmfb.com/",
     sourceURL: "https://github.com/Thermiee",
     details: {
       organization: "Elevate Apps",
@@ -56,7 +56,7 @@ const works = [
       "Crunchies is your go-to fast food delivery website, dedicated to satisfying your cravings with deliciousness delivered right to your doorstep. From mouthwatering burgers and crispy fries to cheesy pizzas and savory fried chicken, Crunchies offers an extensive menu of your favorite fast food delights. With a user-friendly interface, speedy delivery, and a commitment to quality, Crunchies ensures a convenient and satisfying dining experience every time. Indulge in the crunchiest, tastiest fast food treats with Crunchies – where flavor meets convenience.",
     imageURL: "./images/projects/crunchies.png",
     technologies: ["Nextjs", "Redux", "Tailwindcss", "Typescript"],
-    liveURL: "https://crunchies.peachblossoms.ng/",
+    liveURL: "https://www.crunchiesonline.com/",
     sourceURL: "https://github.com/Thermiee",
     details: {
       organization: "PeachBlossoms",
