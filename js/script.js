@@ -25,7 +25,7 @@ const works = [
   {
     name: "Dinero Apartments",
     description: "Dinero Apartments is a service apartment rental platform that offers a wide range of accommodation options for travelers, students, and professionals. With a user-friendly interface and a diverse selection of properties, Dinero Apartments makes it easy to find the perfect place to stay, whether you're traveling for business or leisure. From cozy studio apartments to spacious penthouses, Dinero Apartments has something for everyone. With a focus on quality, convenience, and affordability, Dinero Apartments is your go-to destination for short-term and long-term accommodation solutions.",
-    imageURL: "./images/projects/dinero.png",
+    imageURL: "./images/projects/Dinero.png",
     technologies: ["React", "Tailwindcss", "Typescript"],
     liveURL: "https://dineroapartments.com/",
     sourceURL: "https://github.com/Thermiee",
